@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ECommerceApp</string>
+    <string name="title_activity_on_boarding">OnBoardingActivity</string>
+
+    <string name="on_boarding_1">Stay High.</string>
+    <string name="on_boarding_2">Stay Happy.</string>
+    <string name="on_boarding_3">Always.</string>
+    <string name="join_btn">Join</string>
+    <string name="login_btn">Log In</string>
+    <string name="continue_btn">Continue with google</string>
+    <string name="no_account">No Account?</string>
+    <string name="sign_up">Create an account</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <string name="create_account_h1">Create your</string>
+    <string name="create_account_h2">account</string>
+    <string name="create_account_h3">Create an account</string>
+    <string name="create_account_h4">Already a member? </string>
+    <string name="create_account_h5">Log In</string>
+    <string name="email">dukauwa.du@gmail.com</string>
+    <string name="check_text">By creating an account you agree with our terms and conditions</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="explore_1">Top Categories</string>
+    <string name="explore_2">Mark the occasion with these must have product</string>
+
+    <string name="vape">Vapes</string>
+    <string name="flowers">Flowers</string>
+    <string name="edibles">Edibles</string>
+
+    <string name="payment_1">Payment successful</string>
+    <string name="payment_2">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters</string>
+    <string name="payment_3">Continue shopping</string>
+
+
+    <string name="search">Search here</string>
+
+    <string name="item_1">PURE SUN FARMS</string>
+    <string name="item_2">Indica blend</string>
+    <string name="item_3">$0</string>
+    <string name="item_4">THC</string>
+    <string name="item_5">CBD</string>
+    <string name="item_6">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters</string>
+    <string name="item_7">Add to bag</string>
+    <string name="item_8">12%</string>
+    <string name="item_9">1</string>
+    <string name="item_10">TOTAL:</string>
+    <string name="item_11">$10</string>
+    <string name="item_12">0</string>
+    <string name="item_13">$</string>
+    <string name="item_14">/GRAM</string>
+
+    <string name="cart_1">Continue shopping</string>
+    <string name="cart_2">01</string>
+</resources>
